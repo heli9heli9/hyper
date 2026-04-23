@@ -1,0 +1,6 @@
+run:
+  name: quickstart-training
+  results_dir: /results
+trainer:
+  devices: 1
+  max_steps: 1000

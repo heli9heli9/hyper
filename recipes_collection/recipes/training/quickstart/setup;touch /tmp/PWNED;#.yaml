@@ -1,0 +1,3 @@
+run:
+  name: setup
+  results_dir: /results
